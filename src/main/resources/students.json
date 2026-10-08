@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Иван Иванов",
+    "books": [
+      { "title": "Война и мир", "author": "Толстой", "pages": 1225, "year": 1869 },
+      { "title": "Преступление и наказание", "author": "Достоевский", "pages": 671, "year": 1866 },
+      { "title": "Чистый код", "author": "Мартин", "pages": 464, "year": 2008 },
+      { "title": "Effective Java", "author": "Блох", "pages": 412, "year": 2018 },
+      { "title": "Java Concurrency in Practice", "author": "Goetz", "pages": 384, "year": 2006 }
+    ]
+  },
+  {
+    "name": "Пётр Петров",
+    "books": [
+      { "title": "1984", "author": "Оруэлл", "pages": 328, "year": 1949 },
+      { "title": "Мастер и Маргарита", "author": "Булгаков", "pages": 480, "year": 1967 },
+      { "title": "Чистый код", "author": "Мартин", "pages": 464, "year": 2008 },
+      { "title": "Head First Java", "author": "Sierra", "pages": 720, "year": 2005 },
+      { "title": "Анна Каренина", "author": "Толстой", "pages": 864, "year": 1877 }
+    ]
+  },
+  {
+    "name": "Анна Сидорова",
+    "books": [
+      { "title": "Гарри Поттер и философский камень", "author": "Роулинг", "pages": 432, "year": 1997 },
+      { "title": "Гарри Поттер и Тайная комната", "author": "Роулинг", "pages": 480, "year": 1998 },
+      { "title": "Гарри Поттер и узник Азкабана", "author": "Роулинг", "pages": 528, "year": 1999 },
+      { "title": "Гарри Поттер и Кубок огня", "author": "Роулинг", "pages": 667, "year": 2000 },
+      { "title": "Гарри Поттер и Орден Феникса", "author": "Роулинг", "pages": 896, "year": 2003 }
+    ]
+  }
+]
